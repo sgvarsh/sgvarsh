@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sharad Varshney
-- 👀 I’m interested in Machine learning, artifical intelligence and use AI to make an impact in today's industrial world reducing Green house emissions.
-- 🌱 I’m currently working at Epsilon leading team of Data Scientists for Marketing Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine learning algorithms, latest research on artifical intelligence and use AI to make an impact in today's industrial world reducing Green house emissions.
+- 🌱 I’m currently working at Epsilon leading multiple teams of Data Scientists
+- 💞️ I’m looking to collaborate on open source AI/ML projects which can help solve real-world use case.
+- 📫 How to reach me ... email me at sharad.varshney@gmail.com
 
 <!---
 sgvarsh/sgvarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
